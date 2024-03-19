@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border: 2px solid black;
+}
+.header{
+    border: 2px solid blue;
+    height: 80px;
+    width: 350px;
+    text-align: center;
+    margin-left: 550px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.header h1{
+    color: white;
+}
+.text p{
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+}
+#t{
+    text-align: center;
+}
+.Hteam{
+    border: 2px solid blue;
+    height: 40px;
+    width: 350px;
+    text-align: center;
+    margin-left: 550px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white; 
+    margin-top: 30px;
+}
+.Himage{
+    display: flex;
+    justify-content: center;
+}
+.pic{
+    margin-top: 20px;
+    padding-right: 15px;
+}
+.pic p{
+    color: black;
+}
+.pic a{
+    text-decoration: none;
+    text-align: center;
+}
+.Himage2{
+    display: flex;
+    justify-content: center;
+}
+.Dteam{
+    border: 2px solid blue;
+    height: 40px;
+    width: 350px;
+    text-align: center;
+    margin-left: 550px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white; 
+    margin-top: 30px;
+}
+.Dimage{
+    display: flex;
+    justify-content: center;
+}
+.Dimage2{
+    display: flex;
+    justify-content: center;
+}
+.Steam{
+    border: 2px solid blue;
+    height: 40px;
+    width: 350px;
+    text-align: center;
+    margin-left: 550px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white; 
+    margin-top: 30px;
+}
+.Simage{
+    display: flex;
+    justify-content: center;
+}
+.Simage2{
+    display: flex;
+    justify-content: center;
+}
